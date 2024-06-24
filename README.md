@@ -79,6 +79,10 @@
   <img src="?theme=dark&spin=false" alt="Widget with the current Spotify song"  />
 </div>
 
+&nbsp;<div align="center">
+  [![Spotify](https://github-readme-stats.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/7amo10/7amo10/output/snake.svg" alt="Snake animation" />
