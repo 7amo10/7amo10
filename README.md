@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hey there, I am Ahmed Ashour  👋</h2>
+<h1 align="center">Hey there, I am Ahmed Ashour  👋</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Ashour from Egypt<br><br>- 🔭 I’m working as a developer <br>- 📚 I'm currently learning web development <br>- ⚡ In my free time I used to learn about social relationships in real life.</p>
+<p align="left">This is me from Egypt<br><br>- 🔭 I’m working as a developer <br>- 📚 I'm currently learning web development <br>- ⚡ In my free time I used to learn about social relationships in real life.</p>
 
 ###
 
@@ -69,7 +69,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7amo10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7amo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=7amo10&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -82,10 +84,6 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rb3d5bziyj6zeq4upt67j3btma)
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/7amo10/7amo10/output/snake.svg" alt="Snake animation" />
 
 ###
 
