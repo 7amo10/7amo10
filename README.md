@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey there, I am Ahmed Ashour  👋</h1>
+<h1 align="center">Hi there, I am Ahmed Ashour  👋</h1>
 
 ###
 
