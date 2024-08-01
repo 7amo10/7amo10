@@ -77,6 +77,14 @@
 
 ###
 
+###
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/7amo_111?theme=dark&font=New%20Rocker&ext=activity"/>
+</div>
+
+###
+
 &nbsp;<div align="center">
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rb3d5bziyj6zeq4upt67j3btma)
 </div>
