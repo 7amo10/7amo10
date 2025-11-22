@@ -104,22 +104,13 @@
 </div>
 
 
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7amo10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=ocean_dark&hide_border=false&order=2" height="300" width= "600" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/7amo_111?theme=dark&font=New%20Rocker&ext=activity"/>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/7amo10/count.svg?"  />
-</div>
-
-###
